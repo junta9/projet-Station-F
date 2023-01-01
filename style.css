@@ -16,6 +16,7 @@
 .list-link, li {
     list-style: none;
     align-items: center;
+    font-size: 1.1em;
 }
 
 /* Animation : surligner au survol de la souris */
@@ -147,8 +148,7 @@
     background-color: white;
     border-radius: 10px;
     width: calc(50% - 25px / 2);
-    height: 130px;
-    padding: 25px;
+    height: 150px;
     box-sizing: border-box;
     padding: 50px;
 }
